@@ -1,0 +1,16 @@
+{
+    "name": "openlegends/core",
+    "description": "Core Library for OpenLegends Game",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OpenLegends\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "OpenLegends"
+        }
+    ]
+}
